@@ -2,7 +2,7 @@ package Enterance;
 import java.util.Scanner;
 import java.lang.Math;
 
-public class TrianglePerimeter {
+public class TriangleArea {
     public static void main(String[] args) {
         double a, b, c, u;
         Scanner s = new Scanner(System.in);
